@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edt_magin_right">25dp</dimen>
+    <dimen name="edt_magin_left">30dp</dimen>
+
+    <dimen name="text_padding">5dp</dimen>
+
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_small">15sp</dimen>
+</resources>
